@@ -1,0 +1,17 @@
+#table
+{
+  display: grid;
+  grid-template-columns: repeat(4,200px);
+  gap: 20px;
+}
+
+#night
+{ 
+  display: flex;
+  gap: 10px;
+  
+}
+#color{
+  display: flex;
+  gap: 20px;
+}
